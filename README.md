@@ -11,4 +11,4 @@ Some error checking could possibly be added to this using an approach detailed h
 http://www.gigglingcorpse.com/2012/02/29/sharedobject-example-with-haxenme-for-flash-and-android/
 
 or the file saving part (SharedObject) replaced with this approach detailed on the HaxeFlixel forums:
-http://haxeflixel.com/forum/general-discussion/storing-game-state
+http://haxeflixel.com/comment/1475#comment-1475
