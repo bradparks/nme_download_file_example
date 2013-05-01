@@ -1,6 +1,6 @@
 nme_download_file_example
 =========================
-This is a simple example of downlaoding a file in NME (haxe)
+This is a simple example of downloading a file in NME (Haxe)
 
 It downloads a text file from an ASCII Art site, and saves it to a local file (Shared Object).
 
